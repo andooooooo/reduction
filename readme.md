@@ -1,3 +1,3 @@
 # ABOUT
-2ch.netの<a href="https://itest.2ch.net/subback/applism">スマホアプリ板</a>からキーワードにあったスレッドを自動取得する。<br/>
+2ch.netのスレッドからアンカー付きレス、被アンカーレスを取得し、２つセットでSQLiteに保管する。<br/>
 
